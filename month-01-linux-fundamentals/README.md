@@ -10,4 +10,4 @@ Goals
 
 Daily Reports
 
-- Day 01
+- Day 01 - Ubuntu Installation & Basic Commands
