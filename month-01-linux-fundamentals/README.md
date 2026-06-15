@@ -25,4 +25,7 @@ Daily Reports
 - Day 05
 - Users, Groups & sudo
 
+- Day 06
+- Pipes and Redirection
+
 
