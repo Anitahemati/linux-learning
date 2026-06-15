@@ -1,29 +1,14 @@
-8# Linux Day 06
+# Linux Day 06
 
-## Objective
-
-Learned Linux pipes and redirection.
-
-## Commands Learned
-
+## Topics
+- Redirection
+- Pipes
 - echo
 - wc
 - sort
 
-## Operators
-
-# >
-# >>
-# |
-
 ## Practice
+Created text files, redirected output using > and >>, counted lines with wc, sorted file contents, and connected commands using pipes.
 
-- Redirected command output to files.
-- Appended text using >>.
-- Counted lines with wc.
-- Sorted file contents.
-- Used pipes to connect commands.
-
-## Notes
-
-Pipes allow the output of one command to become the input of another command. Redirection can save command output into files.
+## Key Concept
+Pipes pass the output of one command as input to another command.
