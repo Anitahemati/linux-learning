@@ -12,7 +12,7 @@ Learned Linux pipes and redirection.
 
 ## Operators
 
-- >
+## >
 - >>
 - |
 
