@@ -8,6 +8,10 @@ Goals
 - Learn processes and services
 - Learn basic networking commands
 
+- ## Progress
+
+This roadmap is being completed alongside university studies and exam periods, so progress may vary from week to week.
+
 Daily Reports
 
 - Day 01
