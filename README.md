@@ -1,13 +1,11 @@
-# Linux & AppSec Journey
-
-Learning Linux, Python, Networking and Application Security.
+#AppSec Journey
 
 ## Repository Structure
 
 - docs
-- month-01-linux-fundamentals
-- month-02-linux foundations + Git
-- month-03-networking fundamentals 
+- month-01-Linux-Foundations
+- month-02-Linux-Git
+- month-03-Networking
 
 ## Progress
 
